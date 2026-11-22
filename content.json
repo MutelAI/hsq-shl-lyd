@@ -1,0 +1,298 @@
+{
+  "version": 2,
+  "business": {
+    "name": "ליעד",
+    "name_en": "העסק של ליעד",
+    "site_lang": "he",
+    "available_langs": [
+      "he"
+    ],
+    "phone": "+972-50-214-4346",
+    "phone_display": "+972-50-214-4346",
+    "whatsapp": "972502144346",
+    "website": "",
+    "rating": 0,
+    "reviews_count": 0,
+    "address_he": "משה פרלוק 16, תל אביב",
+    "address_en": "",
+    "category_he": "מספרה",
+    "category_en": "Barbershop",
+    "maps_url": "",
+    "thumbnail": "",
+    "logo_emoji": "Scissors",
+    "geo": {
+      "latitude": 0,
+      "longitude": 0
+    },
+    "schema_type": "BarberShop",
+    "price_range": "affordable",
+    "source_url": "https://questionnaire.mutelai.com/63e312e55a7f",
+    "cache_key": "e883aba1ffa5"
+  },
+  "editToken": "525f8243285b937119da5876d427e55b",
+  "hours": [],
+  "hidden_sections": [],
+  "design": {},
+  "sections": [
+    {
+      "id": "hero",
+      "variant": "A",
+      "visible": true,
+      "content": {
+        "badge": {
+          "he": "המספרה המובילה בתל אביב עם שתיים עשרות שנות ניסיון מקצועי",
+          "en": "המספרה המובילה בתל אביב עם שתיים עשרות שנות ניסיון מקצועי"
+        },
+        "subtitle": {
+          "he": "שירות תספורה עלי חוק לכל המשפחה בתנאים נוחים וזמינות גבוהה",
+          "en": "שירות תספורה עלי חוק לכל המשפחה בתנאים נוחים וזמינות גבוהה"
+        },
+        "available": {
+          "he": "פתוח כל יום מ־09:00 עד 17:00",
+          "en": "פתוח כל יום מ־09:00 עד 17:00"
+        }
+      }
+    },
+    {
+      "id": "services",
+      "variant": "B",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "שירותי תספורה ועיצוב",
+          "en": "שירותי תספורה ועיצוב"
+        },
+        "subtitle": {
+          "he": "מגוון מלא של טיפולי שיער המעוצבים לפי הצרכים האישיים של כל לקוח",
+          "en": "מגוון מלא של טיפולי שיער המעוצבים לפי הצרכים האישיים של כל לקוח"
+        },
+        "cta": {
+          "he": "הזמן תור עכשיו",
+          "en": "הזמן תור עכשיו"
+        }
+      },
+      "items": [
+        {
+          "id": "1",
+          "icon": "Scissors",
+          "title": {
+            "he": "תספורת גברים",
+            "en": "תספורת גברים"
+          },
+          "desc": {
+            "he": "תספורות דקיקות וקוריות לגברים בכל גילאי עם שימוש בטכניקות מקצועיות מעודכנות. התוצאה היא מראה חד ומתוקן המעניק ביטחון ולקוי למראה",
+            "en": "תספורות דקיקות וקוריות לגברים בכל גילאי עם שימוש בטכניקות מקצועיות מעודכנות. התוצאה היא מראה חד ומתוקן המעניק ביטחון ולקוי למראה"
+          }
+        },
+        {
+          "id": "2",
+          "icon": "Sparkles",
+          "title": {
+            "he": "צביעה",
+            "en": "צביעה"
+          },
+          "desc": {
+            "he": "שירותי צביעה מקצועיים המשפרים את המראה הטבעי של השיער. צבעים קבועים ותוצאות מחושבות בדיוק על ידי מומחים בתחום עם ניסיון רב",
+            "en": "שירותי צביעה מקצועיים המשפרים את המראה הטבעי של השיער. צבעים קבועים ותוצאות מחושבות בדיוק על ידי מומחים בתחום עם ניסיון רב"
+          }
+        },
+        {
+          "id": "3",
+          "icon": "Sunrise",
+          "title": {
+            "he": "החלקה",
+            "en": "החלקה"
+          },
+          "desc": {
+            "he": "טיפול החלקה מתקדם המעניק לשיער חלקות וברק טבעי. ההליך משפר את מתקנות השיער ומעניק הופעה מטופחת ומעולה",
+            "en": "טיפול החלקה מתקדם המעניק לשיער חלקות וברק טבעי. ההליך משפר את מתקנות השיער ומעניק הופעה מטופחת ומעולה"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gallery",
+      "variant": "D",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "הסביבה שלנו",
+          "en": "הסביבה שלנו"
+        },
+        "subtitle": {
+          "he": "מספרה מתקדמת המעניקה ניחום ופרטיות לכל ביקור",
+          "en": "מספרה מתקדמת המעניקה ניחום ופרטיות לכל ביקור"
+        }
+      },
+      "items": [
+        {
+          "url": "/images/photo-1.webp",
+          "thumb": "/images/photo-1.webp",
+          "source": "owner",
+          "alt": {
+            "he": "ליעד - תמונה 1",
+            "en": "ליעד - Photo 1"
+          }
+        },
+        {
+          "url": "/images/photo-2.webp",
+          "thumb": "/images/photo-2.webp",
+          "source": "owner",
+          "alt": {
+            "he": "ליעד - תמונה 2",
+            "en": "ליעד - Photo 2"
+          }
+        },
+        {
+          "url": "/images/photo-3.webp",
+          "thumb": "/images/photo-3.webp",
+          "source": "owner",
+          "alt": {
+            "he": "ליעד - תמונה 3",
+            "en": "ליעד - Photo 3"
+          }
+        },
+        {
+          "url": "/images/photo-4.webp",
+          "thumb": "/images/photo-4.webp",
+          "source": "owner",
+          "alt": {
+            "he": "ליעד - תמונה 4",
+            "en": "ליעד - Photo 4"
+          }
+        },
+        {
+          "url": "/images/photo-5.webp",
+          "thumb": "/images/photo-5.webp",
+          "source": "owner",
+          "alt": {
+            "he": "ליעד - תמונה 5",
+            "en": "ליעד - Photo 5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "faq",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "contact",
+      "variant": "E",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "צור קשר והזמן תור",
+          "en": "צור קשר והזמן תור"
+        },
+        "subtitle": {
+          "he": "הצוות שלנו זמין לשירותך כל יום בשעות הפתיחה",
+          "en": "הצוות שלנו זמין לשירותך כל יום בשעות הפתיחה"
+        },
+        "wa_hello": {
+          "he": "שלום, הייתי רוצה להזמין תור למספרה",
+          "en": "שלום, הייתי רוצה להזמין תור למספרה"
+        }
+      }
+    },
+    {
+      "id": "about",
+      "variant": "A",
+      "visible": true,
+      "content": {
+        "title": {
+          "he": "אודות מספרת ליעד",
+          "en": "אודות מספרת ליעד"
+        },
+        "desc": {
+          "he": "מספרת ליעד היא מוקד מומחיות בתחום הטיפול בשיער לכל גילאי המשפחה. בעלי ניסיון של עשרים שנה במקצוע, אנחנו משלבים טכניקות מקצועיות עם סביבה נוחה ושירות מדוקדק. עבור ילדים אנחנו מציעים סביבה מיוחדת עם מכוניות שיושבים בהן, מה שהופך את הטיפול בשיער לחוויה נעימה וחסרת לחץ",
+          "en": "מספרת ליעד היא מוקד מומחיות בתחום הטיפול בשיער לכל גילאי המשפחה. בעלי ניסיון של עשרים שנה במקצוע, אנחנו משלבים טכניקות מקצועיות עם סביבה נוחה ושירות מדוקדק. עבור ילדים אנחנו מציעים סביבה מיוחדת עם מכוניות שיושבים בהן, מה שהופך את הטיפול בשיער לחוויה נעימה וחסרת לחץ"
+        },
+        "years_value": {
+          "he": "20",
+          "en": "20"
+        }
+      }
+    },
+    {
+      "id": "location",
+      "variant": "",
+      "visible": true
+    },
+    {
+      "id": "pricing",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "team",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "before_after",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "video",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "menu",
+      "variant": "B",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "steps",
+      "variant": "",
+      "visible": false,
+      "items": []
+    },
+    {
+      "id": "stats",
+      "variant": "",
+      "visible": false,
+      "items": []
+    }
+  ],
+  "geo_summary": "He'asek Shel Liad is a barbershop located in Tel Aviv, Israel, specializing in men's haircuts, hair coloring, and professional straightening treatments. Situated at Moshe Parlok Street 16 in Tel Aviv, the business serves the local community with extended availability and family-friendly services. The shop features dedicated seating arrangements for children, including special vehicle-themed chairs that create a comfortable environment for younger clients. With twenty years of professional expertise in hair care and styling, the business positions itself as a leading barber shop in the Tel Aviv area, offering meticulous craftsmanship and reliable service to customers seeking quality hair services.",
+  "faq": [
+    {
+      "question": "מהן שעות הפתיחה של המספרה?",
+      "answer": "אנחנו פתוחים כל יום מ־09:00 עד 17:00, למעט יום שבת"
+    },
+    {
+      "question": "האם אתם מספרים ילדים?",
+      "answer": "כן, אנחנו מתמחים בתספורת ילדים ומציעים סביבה מיוחדת עם מכוניות שיושבים בהן להנאת הילדים"
+    },
+    {
+      "question": "כמה עולה תספורת גברים?",
+      "answer": "תספורת גברים עולה 80 שקל, וצביעה 200 שקל, וטיפול החלקה 350 שקל"
+    },
+    {
+      "question": "האם צריך להזמין תור מראש או אתם מקבלים ללא הזמנה?",
+      "answer": "אנחנו מציעים זמינות טובה מאוד, אך מומלץ להזמין תור כדי להבטיח זמן מתאים לתוכנית שלך"
+    },
+    {
+      "question": "מה ההבדל שלכם לעומת מספרות אחרות בעיר?",
+      "answer": "עם עשרים שנות ניסיון מקצועי בתחום, אנחנו משלבים טכניקות מעודכנות עם סביבה נוחה וקבוצת אנשי מקצוע מנוסים"
+    },
+    {
+      "question": "איפה אתם ממוקמים?",
+      "answer": "אנחנו ממוקמים ברחוב משה פרלוק 16 בתל אביב"
+    },
+    {
+      "question": "האם אתם עובדים גם ביום שישי?",
+      "answer": "כן, אנחנו פתוחים ביום שישי מ־09:00 עד 17:00, אך סגורים ביום שבת"
+    }
+  ]
+}

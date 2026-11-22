@@ -1,0 +1,52 @@
+{
+  "name": "העסק של ליעד",
+  "category": "מספרה",
+  "phone": "+972-50-214-4346",
+  "full_address": "משה פרלוק 16, תל אביב",
+  "email": "",
+  "description": "אנחנו המספרה הכי טובה בעיר, מספרים ילדים יש לנו מכוניות שיושבים בהן וזמינות טובה מאוד, מקצועיים בתחום 20שנה",
+  "about": {
+    "description": "אנחנו המספרה הכי טובה בעיר, מספרים ילדים יש לנו מכוניות שיושבים בהן וזמינות טובה מאוד, מקצועיים בתחום 20שנה"
+  },
+  "services": [
+    {
+      "name": "תספורת גברים",
+      "price": "80₪"
+    },
+    {
+      "name": "צביעה",
+      "price": "200₪"
+    },
+    {
+      "name": "החלקה",
+      "price": "350₪"
+    }
+  ],
+  "hours_text": "09:00 עד 17:00 כל יום חוץ מיום שבת",
+  "rating": null,
+  "reviews_count": 0,
+  "reviews": [],
+  "photos": {
+    "owner": [
+      {
+        "url": "https://mutel-gateway-worker-dev.mutelai.workers.dev/media/m/questionnaire-144346/1795365618143-74b683d0.jpg"
+      },
+      {
+        "url": "https://mutel-gateway-worker-dev.mutelai.workers.dev/media/m/questionnaire-144346/1795365623126-2ab0ab04.jpg"
+      },
+      {
+        "url": "https://mutel-gateway-worker-dev.mutelai.workers.dev/media/m/questionnaire-144346/1795365629076-86514bbf.jpg"
+      },
+      {
+        "url": "https://mutel-gateway-worker-dev.mutelai.workers.dev/media/m/questionnaire-144346/1795365633311-fc05d8a4.jpg"
+      },
+      {
+        "url": "https://mutel-gateway-worker-dev.mutelai.workers.dev/media/m/questionnaire-144346/1795365644556-8eeaf9ad.jpg"
+      }
+    ],
+    "users": []
+  },
+  "hours": [],
+  "website": null,
+  "source": "questionnaire"
+}
